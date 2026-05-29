@@ -4,6 +4,8 @@ An AI-powered adaptive traffic signal system that uses Computer Vision and YOLO 
 
 Instead of using fixed signal timers, this project analyzes traffic conditions in real-time and allocates signal duration intelligently to reduce unnecessary waiting time and improve traffic flow.
 
+Output of this Project : www.linkedin.com/in/harsh-godhani
+
 
 Features
 
