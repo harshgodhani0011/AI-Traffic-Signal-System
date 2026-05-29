@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# YOLO model
+*.pt
+
+# Node modules
+node_modules/
+
+# Environment
+venv/
+
+# Videos
+videos/
+
+# VS Code
+.vscode/
+
+# Build files
+build/
+dist/
