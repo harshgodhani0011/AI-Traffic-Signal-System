@@ -26,7 +26,7 @@ Technologies Used
 • OpenCV
 • YOLOv8
 • Flask
-• • React.js
+• React.js
 • NumPy
 • Computer Vision
 • AI Object Detection
@@ -35,17 +35,17 @@ Technologies Used
 System Workflow
 
 Traffic Cameras
-       ↓
+↓
 YOLO Vehicle Detection
-       ↓
+↓
 Vehicle Counting
-       ↓
+↓
 Traffic Density Analysis
-       ↓
+↓
 Dynamic Signal Timer
-       ↓
+↓
 Smart Traffic Signal Control
-       ↓
+↓
 Frontend Dashboard
 
 
